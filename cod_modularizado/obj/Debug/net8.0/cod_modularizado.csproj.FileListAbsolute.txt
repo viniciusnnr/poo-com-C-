@@ -1,0 +1,15 @@
+/workspaces/poo-com-C-/cod_modularizado/bin/Debug/net8.0/cod_modularizado
+/workspaces/poo-com-C-/cod_modularizado/bin/Debug/net8.0/cod_modularizado.deps.json
+/workspaces/poo-com-C-/cod_modularizado/bin/Debug/net8.0/cod_modularizado.runtimeconfig.json
+/workspaces/poo-com-C-/cod_modularizado/bin/Debug/net8.0/cod_modularizado.dll
+/workspaces/poo-com-C-/cod_modularizado/bin/Debug/net8.0/cod_modularizado.pdb
+/workspaces/poo-com-C-/cod_modularizado/obj/Debug/net8.0/cod_modularizado.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/poo-com-C-/cod_modularizado/obj/Debug/net8.0/cod_modularizado.AssemblyInfoInputs.cache
+/workspaces/poo-com-C-/cod_modularizado/obj/Debug/net8.0/cod_modularizado.AssemblyInfo.cs
+/workspaces/poo-com-C-/cod_modularizado/obj/Debug/net8.0/cod_modularizado.csproj.CoreCompileInputs.cache
+/workspaces/poo-com-C-/cod_modularizado/obj/Debug/net8.0/cod_modularizado.sourcelink.json
+/workspaces/poo-com-C-/cod_modularizado/obj/Debug/net8.0/cod_modularizado.dll
+/workspaces/poo-com-C-/cod_modularizado/obj/Debug/net8.0/refint/cod_modularizado.dll
+/workspaces/poo-com-C-/cod_modularizado/obj/Debug/net8.0/cod_modularizado.pdb
+/workspaces/poo-com-C-/cod_modularizado/obj/Debug/net8.0/cod_modularizado.genruntimeconfig.cache
+/workspaces/poo-com-C-/cod_modularizado/obj/Debug/net8.0/ref/cod_modularizado.dll
