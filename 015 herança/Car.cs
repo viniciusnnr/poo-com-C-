@@ -1,4 +1,3 @@
-Car.cs
 using System;
 
 namespace MyApplication

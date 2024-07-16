@@ -1,4 +1,3 @@
-Vehicle.cs
 using System;
 
 namespace MyApplication
