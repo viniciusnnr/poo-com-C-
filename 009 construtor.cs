@@ -1,15 +1,20 @@
-class Car
+using System;
+
+namespace MyApplication
 {
-  public string model;  //field
-
-  public Car() //class constructor
+  class Car
   {
-    model = "Mustang"; // Set the initial value for model
-  }
+    public string model;
 
-  static void Main(string[] args)
-  {
-    Car Ford = new Car();  //(this will call the constructor)
-    Console.WriteLine(Ford.model);
+    public Car() //construtor
+    {
+      model = "Mustang"; 
+    }
+
+    static void Main(string[] args)
+    {
+      Car Ford = new Car();  // cria um obj, isso chama o construtor
+      Console.WriteLine(Ford.model);
+    }
   }
 }
