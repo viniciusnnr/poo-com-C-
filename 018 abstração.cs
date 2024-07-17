@@ -8,7 +8,7 @@ abstract class Animal //Classe abstrata
   }
 }
 
-class Pig : Animal // classe derivada de Animal
+class Pig : Animal // classe derivada de Animal. "implement"
 {
   public override void animalSound() //note o override
   {
