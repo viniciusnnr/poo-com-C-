@@ -13,7 +13,7 @@ namespace MyApplication
       myCar.buzina();
 
       // exibi a marca (da classe Vehicle) e o modelName da classe Car
-      Console.WriteLine(myCar.brand + " " + myCar.modelName);
+      Console.WriteLine(myCar.buzina + " " + myCar.modelName);
     }
   }
 }
