@@ -2,9 +2,9 @@ using System;
 
 namespace MyApplication
 {
-  class Car : Vehicle  // Derived class
+  class Car : Vehicle  // Classe derivada
   {
-    public string modelName = "Mustang";  // Car field
+    public string modelName = "Mustang";  
   }
 }
 

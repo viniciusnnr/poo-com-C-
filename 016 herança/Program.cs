@@ -6,13 +6,13 @@ namespace MyApplication
   { 
     static void Main(string[] args)
     {
-      // Create a myCar object
+     
       Car myCar = new Car();
 
-      // Call the honk() method (From the Vehicle class) on the myCar object
-      myCar.honk();
+      // chama o met buzina (da classe Vehicle) no objeto myCar
+      myCar.buzina();
 
-      // Display the value of the brand field (from the Vehicle class) and the value of the modelName from the Car class
+      // exibi a marca (da classe Vehicle) e o modelName da classe Car
       Console.WriteLine(myCar.brand + " " + myCar.modelName);
     }
   }

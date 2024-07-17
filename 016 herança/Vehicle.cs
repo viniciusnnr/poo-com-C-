@@ -2,12 +2,12 @@ using System;
 
 namespace MyApplication
 {
-  class Vehicle  // Base class
+  class Vehicle
   {
-    public string brand = "Ford";  // Vehicle field
-    public void honk()             // Vehicle method 
+    public string marca = "Ford";  
+    public void buzina()              
     {
-      Console.WriteLine("Tuut, tuut!");
+      Console.WriteLine("bi, bii!");
     }
   }
 }
